@@ -1,0 +1,10 @@
+ :root{--corde-de-fundo :#00030C;
+        --branco-principal :#FFFFFF;
+        --Botao-azul :#167BF7;
+        --Cimza-secundario :#C0C0C0;
+
+}
+Body{
+    background-color: var(--corde-de-fundo);
+
+}
